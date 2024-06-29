@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odunlami Ayomide - Data Analyst</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #fff;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        header h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+            margin: 0 auto;
+            max-width: 800px;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        .portfolio-item {
+            margin-bottom: 20px;
+        }
+        .portfolio-item h3 {
+            margin-top: 0;
+        }
+        .portfolio-item p {
+            margin-bottom: 0;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Odunlami Ayomide</h1>
+        <p>Data Analyst</p>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>I am a dedicated data analyst with a passion for transforming complex data into actionable insights. With a strong background in statistical analysis and data visualization, I excel in identifying trends, patterns, and correlations within large datasets. My expertise spans various industries, where I have successfully contributed to data-driven decision-making and strategic planning. I am proficient in tools such as SQL, Excel, and PowerBI, and I continuously seek opportunities to enhance my skills and stay updated with the latest advancements in data analytics.</p>
+    </section>
+    <section>
+        <h2>Portfolio</h2>
+        <div class="portfolio-item">
+            <h3>Project Title 1</h3>
+            <p>Description of project 1...</p>
+        </div>
+        <div class="portfolio-item">
+            <h3>Project Title 2</h3>
+            <p>Description of project 2...</p>
+        </div>
+        <div class="portfolio-item">
+            <h3>Project Title 3</h3>
+            <p>Description of project 3...</p>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2024 Odunlami Ayomide</p>
+    </footer>
+</body>
+</html>
